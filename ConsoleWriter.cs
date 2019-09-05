@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BoundarySeparationProject
+namespace BoundarySeparationProject.OutputLayer
 {
     class ConsoleWriter : ILineWriter
     {

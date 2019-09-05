@@ -1,4 +1,4 @@
-﻿namespace BoundarySeparationProject
+﻿namespace BoundarySeparationProject.OutputLayer
 {
     interface ILineWriter
     {

@@ -1,7 +1,9 @@
-﻿using System.Security.Cryptography;
+﻿using BoundarySeparationProject.InputLayer;
+using BoundarySeparationProject.OutputLayer;
+using System.Security.Cryptography;
 using System.Text;
 
-namespace BoundarySeparationProject
+namespace BoundarySeparationProject.EncryptionLayer
 {
     class MessageEncrypter
     {

@@ -1,4 +1,8 @@
-﻿namespace BoundarySeparationProject
+﻿using BoundarySeparationProject.EncryptionLayer;
+using BoundarySeparationProject.InputLayer;
+using BoundarySeparationProject.OutputLayer;
+
+namespace BoundarySeparationProject
 {
     class Program
     {

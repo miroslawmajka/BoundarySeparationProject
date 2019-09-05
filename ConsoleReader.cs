@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BoundarySeparationProject
+namespace BoundarySeparationProject.InputLayer
 {
     class ConsoleReader : ILineReader
     {
